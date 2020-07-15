@@ -1,0 +1,5 @@
+This QR represents all my private Bitcoin information.
+
+I am sending it to myself to backup my wallet with full knowledge that this IS NOT the most secure way to back it up. 
+
+If I wanted to be more secure, I'd just print a copy -or- write the 12-word phrase on a napkin and keep it in my sock drawer.
